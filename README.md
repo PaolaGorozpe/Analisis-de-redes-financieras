@@ -24,5 +24,7 @@ Detectar comunidades financieras apartir de diferentes umbrales de correlacion e
 
 ## Hallazgos
 i. Las redes financieras son bastante sensibles a los umbrales de correlación.
+
 ii. Umbrales más bajos generan sistemas más densos y conectados.
+
 iii. Se identifican algunas comunidades localizadas, lo que sugiere que existe un comportamiento sectorial entre las empresas.
